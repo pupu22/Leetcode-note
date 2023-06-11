@@ -13,3 +13,15 @@ leetcode刷题记录
 ## 二分查找
 - [x] [704.二分查找](https://leetcode.cn/problems/binary-search/) easy
 - [x] [35. 搜索插入位置](https://leetcode.cn/problems/search-insert-position/) easy
+## 移除元素
+双指针法
+- [x] [27.移除元素](https://leetcode.cn/problems/remove-element/) easy
+## 有序数组的平方
+双指针法
+- [x] [977.有序数组的平方](https://leetcode.cn/problems/squares-of-a-sorted-array/) easy
+## 长度最小的子数组
+- [x] [977.有序数组的平方](https://leetcode.cn/problems/squares-of-a-sorted-array/) medium
+- [x] [904.水果成篮](https://leetcode.cn/problems/squares-of-a-sorted-array/) medium
+- [x] [76.最小覆盖子串](https://leetcode.cn/problems/squares-of-a-sorted-array/) hard
+## 螺旋矩阵
+- [x] [59.螺旋矩阵II](https://leetcode.cn/problems/spiral-matrix-ii/) medium
