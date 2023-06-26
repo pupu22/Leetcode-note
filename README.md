@@ -44,3 +44,7 @@ leetcode刷题记录
 ## 二叉树的层序遍历（广度遍历）
 - [x] [102.二叉树的层序遍历](https://leetcode.cn/problems/binary-tree-level-order-traversal/)
 - [x] [199.二叉树的右视图](https://leetcode.cn/problems/binary-tree-right-side-view/)
+- [x] [429.N叉树的层序遍历](https://leetcode.cn/problems/n-ary-tree-level-order-traversal/)
+- [x] [116.填充每个节点的下一个右侧节点](https://leetcode.cn/problems/populating-next-right-pointers-in-each-node/)
+- [x] [104.二叉树的最大深度](https://leetcode.cn/problems/maximum-depth-of-binary-tree/)
+- [x] [111.二叉树的最小深度](https://leetcode.cn/problems/minimum-depth-of-binary-tree/)
