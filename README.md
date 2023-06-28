@@ -51,4 +51,7 @@ leetcode刷题记录
 ## 翻转二叉树
 - [x] [26.翻转二叉树](https://leetcode.cn/problems/invert-binary-tree/)
 - [x] [101.对称二叉树](https://leetcode.cn/problems/symmetric-tree/)
+- [x] [222.完全二叉树的节点个数](https://leetcode.cn/problems/count-complete-tree-nodes/) hard
+- [x] [110.平衡二叉树](https://leetcode.cn/problems/balanced-binary-tree/) easy
+- [x] [257.二叉树的所有路径](https://leetcode.cn/problems/binary-tree-paths/) easy
 
