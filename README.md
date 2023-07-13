@@ -55,3 +55,7 @@ leetcode刷题记录
 - [x] [110.平衡二叉树](https://leetcode.cn/problems/balanced-binary-tree/) easy
 - [x] [257.二叉树的所有路径](https://leetcode.cn/problems/binary-tree-paths/) easy
 - [x] [404. 左叶子之和](https://leetcode.cn/problems/sum-of-left-leaves/) easy
+
+# 哈希表
+对于js来说，哈希表可以使用map也可以使用数组来实现。    
+哈希表是典型的空间换时间的例子。
